@@ -1,4 +1,4 @@
-const CreatePedidoService = require('../services/CreatePedidoService');
+const CreatePedidoService = require('../services/create-pedido-service');
 
 class CreatePedidoController {
 

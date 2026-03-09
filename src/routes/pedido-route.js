@@ -1,8 +1,8 @@
 const { Router } = require('express');
-const CreatePedidoController = require('../controllers/CreatePedidoController');
-const GetPedidoController = require('../controllers/GetPedidoController');
-const UpdatePedidoController = require('../controllers/UpdatePedidoController');
-const DeletePedidoController = require('../controllers/DeletePedidoController');
+const CreatePedidoController = require('../controllers/create-pedido-controller');
+const GetPedidoController = require('../controllers/get-pedido-controller');
+const UpdatePedidoController = require('../controllers/update-pedido-controller');
+const DeletePedidoController = require('../controllers/delete-pedido-controller');
 
 const routes = Router();
 

@@ -1,4 +1,4 @@
-const DeletePedidoService = require('../services/DeletePedidoService');
+const DeletePedidoService = require('../services/delete-pedido-service');
 
 class DeletePedidoController {
 

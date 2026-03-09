@@ -1,4 +1,4 @@
-const PedidoRepository = require('../repositories/PedidoRepository');
+const PedidoRepository = require('../repositories/pedido-repository');
 
 class CreatePedidoService {
     async criarPedido(dados) {

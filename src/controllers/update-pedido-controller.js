@@ -1,4 +1,4 @@
-const UpdatePedidoService = require('../services/UpdatePedidoService');
+const UpdatePedidoService = require('../services/update-pedido-service');
 
 class UpdatePedidoController {
 
